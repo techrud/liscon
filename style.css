@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color:blue;
+}
+footer{
+    text-align: center;
+    background-color: linear-gradient(white, black );
+}
